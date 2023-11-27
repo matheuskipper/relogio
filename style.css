@@ -22,10 +22,3 @@ body {
     text-align: center;
     color: white;
 }
-
-@media screen and (max-width: 768px) {
-    #clock{
-        width: 100%;
-        flex-direction: column;
-    }
-}
